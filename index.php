@@ -6,6 +6,7 @@
     <title>PHP - Hello, World!</title>
 </head>
 <body bgcolor = "red">
-        <h1><?php echo 'Hello, World -- Welcome Here!'; ?></h1>
+        <h1><?php echo 'Hello, World -- Welcome Here!'; ?></h1> <br>
+        <h2> This is my first website</h2>
 </body>
 </html>
