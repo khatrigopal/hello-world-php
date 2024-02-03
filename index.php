@@ -6,6 +6,6 @@
     <title>PHP - Hello, World!</title>
 </head>
 <body bgcolor = "red">
-        <h1><?php echo 'Hello, World!'; ?></h1>
+        <h1><?php echo 'Hello, World -- Welcome Here!'; ?></h1>
 </body>
 </html>
